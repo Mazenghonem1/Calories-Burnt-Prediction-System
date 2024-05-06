@@ -1,12 +1,10 @@
-Mohamed, Abdelrahman - 22201956
 
-Ghonem, Mazen - 00819365
 
 ## Project Title Name
 
 Calories Burnt Prediction System
 
-[Project Repository on MyGit](https://mygit.th-deg.de/am25965/Recommendation-System-Project)
+
 
 ## Project Description
 
@@ -74,21 +72,7 @@ In this project, we implemented a machine learning model for predicting calories
 - **Description**: Contains historical data on users' physical attributes and their corresponding calories burnt during exercises.
 
 ---
-## Work Done 
 
-### Abdelrahman Mohamed's Contribution
-
-- Graphical User Interface (Graphical User Interface (GUI) with PyQt)
-- Pandas with Numpy (Data analysis with pandas and numpy)
-
-### Mazen Ghonem's Contribution
-
-- Visualization (with pandas and matplotlib)
-- Scikit-Learn
-
-### Contributions made by both of us
-
-- General Python Programming.
 
 ## Project Status
 
